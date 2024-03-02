@@ -9,3 +9,5 @@
 ## SSAS Cube Generation:
 #### .Leveraged SSAS to generate a multi-dimensional cube for versatile data exploration.
 Embarking on this transformative journey as a Data Modeler has been truly rewarding! 🌐💡
+## Image:
+## 1. DWH:
